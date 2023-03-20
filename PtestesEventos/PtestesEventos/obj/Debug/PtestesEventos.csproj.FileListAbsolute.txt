@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\bin\Debug\PtestesEventos.exe.config
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\bin\Debug\PtestesEventos.exe
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\bin\Debug\PtestesEventos.pdb
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.Form1.resources
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.Properties.Resources.resources
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.exe
+C:\Users\PC\OneDrive\Linguagem de Programação 2023 Prof Denilce\PtestesEventos\PtestesEventos\obj\Debug\PtestesEventos.pdb
